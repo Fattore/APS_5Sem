@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APS_P2P_Program_ASPNET", "APS_P2P_Program_ASPNET.csproj", "{06A83300-EFDE-4977-9F9C-5DE7656BADF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_APS", "..\Console_APS\Console_APS.csproj", "{27595E32-3BCF-4931-8900-A9DA9087AB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A83300-EFDE-4977-9F9C-5DE7656BADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A83300-EFDE-4977-9F9C-5DE7656BADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A83300-EFDE-4977-9F9C-5DE7656BADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A83300-EFDE-4977-9F9C-5DE7656BADF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27595E32-3BCF-4931-8900-A9DA9087AB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27595E32-3BCF-4931-8900-A9DA9087AB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27595E32-3BCF-4931-8900-A9DA9087AB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27595E32-3BCF-4931-8900-A9DA9087AB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924AF0D3-6411-4AAB-93E5-23E06BC4AA8C}
+	EndGlobalSection
+EndGlobal

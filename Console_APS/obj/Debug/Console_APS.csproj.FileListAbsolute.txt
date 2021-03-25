@@ -1,0 +1,7 @@
+C:\Users\thefa\source\repos\Console_APS\bin\Debug\Console_APS.exe.config
+C:\Users\thefa\source\repos\Console_APS\bin\Debug\Console_APS.exe
+C:\Users\thefa\source\repos\Console_APS\bin\Debug\Console_APS.pdb
+C:\Users\thefa\source\repos\Console_APS\obj\Debug\Console_APS.csprojAssemblyReference.cache
+C:\Users\thefa\source\repos\Console_APS\obj\Debug\Console_APS.csproj.CoreCompileInputs.cache
+C:\Users\thefa\source\repos\Console_APS\obj\Debug\Console_APS.exe
+C:\Users\thefa\source\repos\Console_APS\obj\Debug\Console_APS.pdb
