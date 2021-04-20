@@ -1,4 +1,4 @@
-﻿using APS_P2P_Program_ASPNET.SocketsManager;
+﻿using APS_P2P_Program_ASPNET.SocketManager;
 using System;
 using System.Collections.Generic;
 using System.Linq;

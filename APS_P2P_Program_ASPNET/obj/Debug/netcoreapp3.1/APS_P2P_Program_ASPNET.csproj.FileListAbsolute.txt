@@ -5,7 +5,6 @@ C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\APS_P
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\bin\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.exe
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\bin\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.deps.json
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\bin\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.runtimeconfig.json
@@ -18,3 +17,4 @@ C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\stati
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.dll
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.pdb
 C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\APS_P2P_Program_ASPNET.genruntimeconfig.cache
+C:\Users\thefa\source\repos\APS_P2P_Program_ASPNET\obj\Debug\netcoreapp3.1\scopedcss\bundle\APS_P2P_Program_ASPNET.styles.css
